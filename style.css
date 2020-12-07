@@ -1,5 +1,5 @@
 body {
-    background-image: url(kepek/erdo.jpg);
+    background-image: url(erdo.jpg);
     background-size: cover;
 }
 
@@ -75,9 +75,7 @@ A.link:link {
     margin-right:15%;
 }
 
-.kep
-    width: 15%;
-    height: auto;
-    padding: 2%;
-    padding-bottom: 25;
+hr{
+    border: 3px solid darkgreen ;
+    width:"80%";
 }
